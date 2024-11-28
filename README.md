@@ -38,6 +38,17 @@ This is a simple program to disable all Windows 10 services related to Active Di
 Selection; Disable All = D, Enable All = E, Exit Program = X: 
 ```
 
+## Requirements
+- Windows 10 with Scripting Enabled.
+- Administrator rights.
+
+### Instructions
+1. Do not use this until I have tested it, I warn you unexpected results will occur.
+2. Create restore point from `Control Panel>System>System Restore>Create`.
+3. Right click on the batch, then select "Run as Administrator".
+4. Choose Disable All from menu with `D` key, and check feedback on screen.
+5. Restart computer, and test everything you intend to use still works.
+
 ## Notation
 - Lore: Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another alike a Rupert Murdock, and so, in truth, ADAM is SATAN. Depends what you believe; did you do your own comprehensive research or did a slaver organizations just hand you their approved version of history on a plate.
 
