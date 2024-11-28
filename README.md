@@ -43,7 +43,7 @@ Selection; Disable All = D, Enable All = E, Exit Program = X:
 - Administrator rights.
 
 ### Instructions
-1. Do not use this until I have tested it, I warn you unexpected results will occur.
+1. Do not use this until I have tested it, I warn you unexpected results may occur, most likely, an error will pop up or the script will unexpectedly exit.
 2. Create restore point from `Control Panel>System>System Restore>Create`.
 3. Right click on the batch, then select "Run as Administrator".
 4. Choose Disable All from menu with `D` key, and check feedback on screen.
