@@ -77,7 +77,6 @@ Please restart your computer after exiting the program.
 2. Right click on the batch, then select "Run as Administrator".
 3. Choose Disable All from menu with `D` key, and check feedback on screen.
 4. Restart computer, and test everything you intend to use still works.
-- If you get, errors or issues, just re-enable, the relevant or all affected, services; it wont affect boot unless you are doing something like network boot or rely upon network resources/sharing.
 
 ## Notation
 - Lore: Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another alike a Rupert Murdock, and so, the ADAMU is by definition SATAN. Depends what you believe; did you do your own comprehensive research or did a slaver organizations controlled by false archons just hand you their approved version of history.
@@ -87,3 +86,4 @@ Please restart your computer after exiting the program.
 ## Warnings
 - You should, research and know, what each of the ones below actually does, in brief, copy the list and ask GPT for a concise explanation of what each one does, and if it is required to, play games, watch movies/music, browse the web.
 - I say again do not use this script, unless you have backed up your settings through the Creation of a System Restore Point, available through System in the Control Panel.  
+- If you get, errors or issues, just re-enable, the relevant or all affected, services; it wont affect boot unless you are doing something like network boot or rely upon network resources/sharing.
