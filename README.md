@@ -37,7 +37,7 @@ This is a simple program to disable all Windows 10 services related to Active Di
 Selection; Disable All = D, Enable All = E, Exit Program = X: 
 ```
 
-### Notation
+## Notation
 - The funny title is because Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another like Murdock did, and so, in truth, ADAM is SATAN. Depends what you believe, and if you believe that from your own research or just what people handed you on a plate.
 
 ## Warnings
