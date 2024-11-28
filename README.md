@@ -39,8 +39,9 @@ Selection; Disable All = D, Enable All = E, Exit Program = X:
 ```
 
 ## Requirements
-- Windows 10 with Scripting Enabled.
-- Administrator rights.
+- Windows 10 - Pretty sure any variant of 10 will wodk.
+- Batch Support - Scripting Host Enabled.
+- Administrator Privaledges.
 
 ### Instructions
 1. Do not use this until I have tested it, I warn you unexpected results may occur, most likely, an error will pop up or the script will unexpectedly exit.
