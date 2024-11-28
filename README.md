@@ -50,7 +50,7 @@ Selection; Disable All = D, Enable All = E, Exit Program = X:
 5. Restart computer, and test everything you intend to use still works.
 
 ## Notation
-- Lore: Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another alike a Rupert Murdock, and so, the ADAMU is by definition SATAN. Depends what you believe; did you do your own comprehensive research or did a slaver organizations controlled by false archons just hand you their approved version of history on a plate saying Adam was the good guy wink theres a good boy youl go to heaven now nudge nudge aye think no more of it.
+- Lore: Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another alike a Rupert Murdock, and so, the ADAMU is by definition SATAN. Depends what you believe; did you do your own comprehensive research or did a slaver organizations controlled by false archons just hand you their approved version of history.
 - Its interesting as a concept, because a pro Windows home user of many years experience will know some of those services should definately be disabled unless you specifically need to use them, especially after the bulk of the install process is done, but how ALL of them pretty much are falling within AD, albeit can you argue about the "Devil/Satan Inside" meme could logically have correlation with these services.
 
 ## Warnings
