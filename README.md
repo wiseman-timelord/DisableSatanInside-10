@@ -10,7 +10,8 @@ This is a simple program to disable all Windows 10 services related to Active Di
 ### Features
 - Glorified menu with simple interface.
 - Admin and OS, check at start.
-- Pause at end of Enable/Disable
+- Confirmations of each modification.
+- Pause at end of Enable/Disable for review.
 
 ### Preview
 ```
