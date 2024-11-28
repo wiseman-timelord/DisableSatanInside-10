@@ -5,7 +5,7 @@ Status: Alpha
 - Un-tested, do not use; waiting for appropriate point to run it on the laptop, when I have no other tasks. See below in preview if you are interested in which services are affected, and do it manually for now.
 
 ### Description
-This is a simple program to disable all Windows 10 services related to Active Directory, a set of services completely un-necessary if you intend to use your Windows based PC for Movies and Gaming, but definately nothing to do with sharing resources on the network or updating windows. I did the modifications manually, and my Windows 10 PC still booted fine. Its one of those things you would do last when installing a windows 10 computer, probably after using my other program AntiMsSpyware.
+This is a simple program to disable all Windows 10 services related to Active Directory, a set of services completely un-necessary if you intend to use your Windows based PC for Movies and Gaming, but definately nothing to do with sharing resources on the network or updating windows. I did the modifications manually, and my Windows 10 PC still booted fine. Its one of those things you would do last when installing a windows 10 computer, probably after using my other program AntiMsSpyware. My own philosophy is people should be using, Windows 10 based PC for the Games/Media and Ubuntu 24.10 for work; its easy enough to, install and use, Ubuntu now with the assistance of free GPT services for instructions on Ubuntu, and obviously you dont need most Windows features for Games/Media. 
 
 ### Features
 - Glorified menu with simple interface.
