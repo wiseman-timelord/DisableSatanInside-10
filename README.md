@@ -68,7 +68,7 @@ Please restart your computer after exiting the program.
 ```
 
 ## Requirements
-- Windows 10 - Pretty sure any variant of 10 will wodk.
+- Windows 10 - Pretty sure any variant of 10 will work.
 - Batch Support - Scripting Host Enabled.
 - Administrator Account - You have Admin rights.
 
