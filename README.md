@@ -2,7 +2,7 @@
 Status: Working
 
 ### Description
-This is a simple program to disable all Windows 10 services related to Active Directory, that are not specifically required for, Internet or Games or Media. I have tested it, and my, Laptop and Desktop, seemed ok, and could connect to wireless network to use internet fine. This program is one of those things you would do last when installing a windows 10 computer, probably after using privacy programs, as well as, my other program AntiMsSpyware. My own philosophy is people should be using, Windows 10 based PC for the Games/Media/Offline and Ubuntu 24.10 for Work/Web. See below in preview if you are interested in which services are affected, and do it manually if you want some of them. 
+This is a simple program to disable all Windows 10 services related to Active Directory, that are not specifically required for, Internet or Games or Media. I have tested it, and my, Laptop and Desktop, seemed ok, and could connect to wireless network to use internet fine. This program is one of those things you would do last when installing a windows 10 computer, probably after using (multiple) privacy related programs, as well as, my other program [AntiMsVirus](https://github.com/wiseman-timelord/AntiMsVirus). My own philosophy is people should be using, Windows 10 based PC for the Games/Media/Offline and Ubuntu 24.10 for Work/Web. See below in preview if you are interested in which services are affected, and do it manually if you only want some of the tweaks. 
 
 ### Features
 - Glorified menu with simple interface.
