@@ -38,7 +38,7 @@ Selection; Disable All = D, Enable All = E, Exit Program = X:
 ```
 
 ## Notation
-- The funny title is because Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another like Murdock did, and so, in truth, ADAM is SATAN. Depends what you believe, and if you believe that from your own research or just what people handed you on a plate.
+- Lore: Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another alike a Rupert Murdock, and so, in truth, ADAM is SATAN. Depends what you believe; did you do your own comprehensive research or did a slaver organizations just hand you their approved version of history on a plate.
 
 ## Warnings
 - You should know what you are doing, and research what each one does. 
