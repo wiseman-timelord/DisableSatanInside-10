@@ -1,4 +1,4 @@
-# DisableSatanInside 10
+# DisableSatanInside-10
 Status: Alpha
 
 ### Development
