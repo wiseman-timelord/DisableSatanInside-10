@@ -2,7 +2,7 @@
 Status: Working
 
 ### Description
-This is a simple program to disable all Windows 10 services related to Active Directory, that are not specifically required for, Internet or Games or Media. I have tested it, and my, Laptop and Desktop, seemed ok, and could connect to wireless network to use internet fine. This program is one of those things you would do last when installing a windows 10 computer, probably after using (multiple) privacy related programs, as well as, my other program [AntiMsVirus](https://github.com/wiseman-timelord/AntiMsVirus). My own philosophy is people should be using, Windows 10 based PC for the Games/Media/Offline and Ubuntu 24.10 for Work/Web. See below in preview if you are interested in which services are affected, and do it manually if you only want some of the tweaks. Also you should, research and know, what each of the ones below actually does, in brief, copy the list and ask GPT for an explanation.
+This is a simple program to disable all Windows 10 services related to Active Directory, that are not specifically required for, Internet or Games or Media. I have tested it, and my, Laptop and Desktop, seemed ok, and could connect to wireless network to use internet fine. This program is one of those things you would do last when installing a windows 10 computer, probably after using (multiple) privacy related programs, as well as, my other program [AntiMsVirus](https://github.com/wiseman-timelord/AntiMsVirus). My own philosophy is people should be using, Windows 10 based PC for the Games/Media/Offline and Ubuntu 24.10 for Work/Web. See below in preview if you are interested in which services are affected, and do it manually if you only want some of the tweaks.
 
 ### Features
 - Glorified menu with simple interface.
@@ -85,5 +85,5 @@ Please restart your computer after exiting the program.
 - I did a session with GPT4o1-Mini and figured out ALL the services related to Active Directory, that I could safely disable, while still being able to access the internet, as well as play, games and movies and music. I then did the modifications manually to my Desktop, and my Windows 10 Desktop PC still booted fine, I then used a combination of, GPT4o1 and GPT4o1-Mini, to relevantly, create and complete, the script, I then tested the script on my Windows 10 Laptop, with the results shown above in preview.
 
 ## Warnings
-- You should know what you are doing, and research what each one does. 
-- I say again do not use this script, unless you have backed up your settings.  
+- You should, research and know, what each of the ones below actually does, in brief, copy the list and ask GPT for a concise explanation of what each one does, and if it is required to, play games, watch movies/music, browse the web.
+- I say again do not use this script, unless you have backed up your settings through the Creation of a System Restore Point, available through System in the Control Panel.  
