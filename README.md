@@ -73,15 +73,15 @@ Please restart your computer after exiting the program.
 - Administrator Account - You have Admin rights.
 
 ### Instructions
-- Here is the Meme...
-
-![Seten_Inside](media/Seten_Inside.png)
 1. Create restore point from `Control Panel>System>System Restore>Create`.
 2. Right click on the batch, then select "Run as Administrator".
 3. Choose Disable All from menu with `D` key, and check feedback on screen.
 4. Restart computer, and test everything you intend to use still works.
 
 ## Notation
+- Here is the Meme...
+
+![Seten_Inside](media/Seten_Inside.png)
 - Lore: Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another alike a Rupert Murdock, and so, the ADAMU is by definition SATAN.
 - Its interesting as a concept, because a pro Windows home user of many years experience will know some of those services should definately be disabled unless you specifically need to use them, especially after the bulk of the install process is done, but how ALL of them pretty much are falling within AD.
 - I did a session with GPT4o1-Mini and figured out ALL the services related to Active Directory, that I could safely disable, while still being able to access the internet, as well as play, games and movies and music. I then did the modifications manually to my Desktop, and my Windows 10 Desktop PC still booted fine, I then used a combination of, GPT4o1 and GPT4o1-Mini.
