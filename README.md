@@ -73,6 +73,9 @@ Please restart your computer after exiting the program.
 - Administrator Account - You have Admin rights.
 
 ### Instructions
+- Here is the Meme...
+
+![Seten_Inside](media/Seten_Inside.png)
 1. Create restore point from `Control Panel>System>System Restore>Create`.
 2. Right click on the batch, then select "Run as Administrator".
 3. Choose Disable All from menu with `D` key, and check feedback on screen.
@@ -80,9 +83,8 @@ Please restart your computer after exiting the program.
 
 ## Notation
 - Lore: Active Directory (AD) used to be known as ADAM, and while the closet case Satanists may claim Adam is the first man, in actual historic recording, Adamu was a deity that was smashed into 1000s of slave beings, becaues he subversively, manipulated and turned, the gods on one another alike a Rupert Murdock, and so, the ADAMU is by definition SATAN.
-![Seten_Inside](media/Seten_Inside.png)
-- Its interesting as a concept, because a pro Windows home user of many years experience will know some of those services should definately be disabled unless you specifically need to use them, especially after the bulk of the install process is done, but how ALL of them pretty much are falling within AD, albeit can you argue about the "Devil/Satan Inside" meme could logically have correlation with these services.
-- I did a session with GPT4o1-Mini and figured out ALL the services related to Active Directory, that I could safely disable, while still being able to access the internet, as well as play, games and movies and music. I then did the modifications manually to my Desktop, and my Windows 10 Desktop PC still booted fine, I then used a combination of, GPT4o1 and GPT4o1-Mini, to relevantly, create and complete, the script, I then tested the script on my Windows 10 Laptop, with the results shown above in preview.
+- Its interesting as a concept, because a pro Windows home user of many years experience will know some of those services should definately be disabled unless you specifically need to use them, especially after the bulk of the install process is done, but how ALL of them pretty much are falling within AD.
+- I did a session with GPT4o1-Mini and figured out ALL the services related to Active Directory, that I could safely disable, while still being able to access the internet, as well as play, games and movies and music. I then did the modifications manually to my Desktop, and my Windows 10 Desktop PC still booted fine, I then used a combination of, GPT4o1 and GPT4o1-Mini.
 
 ## Warnings
 - You should, research and know, what each of the ones below actually does, in brief, copy the list and ask GPT for a concise explanation of what each one does, and if it is required to, play games, watch movies/music, browse the web.
