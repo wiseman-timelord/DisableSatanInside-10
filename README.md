@@ -87,6 +87,6 @@ Please restart your computer after exiting the program.
 - I did a session with GPT4o1-Mini and figured out ALL the services related to Active Directory, that I could safely disable, while still being able to access the internet, as well as play, games and movies and music. I then did the modifications manually to my Desktop, and my Windows 10 Desktop PC still booted fine, I then used a combination of, GPT4o1 and GPT4o1-Mini.
 
 ## Warnings
-- You should, research and know, what each of the ones below actually does, in brief, copy the list and ask GPT for a concise explanation of what each one does, and if it is required to, play games, watch movies/music, browse the web.
-- I say again do not use this script, unless you have backed up your settings through the Creation of a System Restore Point, available through System in the Control Panel.  
+- If interested, you should research what each of the options on the menu actually does, in brief copy the list and ask GPT for a concise explanation of what each one does, and if it is required to, play games, watch movies/music, browse the web for your hardware and deployment theme.
+- Ddo not use this script, unless you have backed up your settings through the Creation of a System Restore Point, available through System in the Windows Control Panel.  
 - If you get, errors or issues, just re-enable, the relevant or all affected, services; it wont affect boot unless you are doing something like network boot or rely upon network resources/sharing.
